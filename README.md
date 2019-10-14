@@ -12,4 +12,6 @@ Follow these simple steps to generate your PR ! :tada:
 4. Apply your logic 
 5. Add it using [git add](https://help.github.com/en/articles/adding-a-file-to-a-repository-using-the-command-line) in your branch
 6. Add [commit](https://help.github.com/en/articles/adding-a-file-to-a-repository-using-the-command-line) message
-7. Make a PR and enjoy your hactoberfest journey ! :tada:
+7. Make a PR and enjoy your hactoberfest journey ! :👕:
+
+Feel free to create new issue. :📝:
