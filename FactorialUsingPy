@@ -5,4 +5,4 @@ def factorial(n):
     n-=1
   return ans
 a=int(input())
-print(factorial(ans), "is the factorial of", a)
+print(factorial(a), "is the factorial of", a)
